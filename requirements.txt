@@ -3,7 +3,7 @@ pandas
 numpy
 matplotlib
 fuzzywuzzy
-torch==2.1.0
+torch
 transformers
 openpyxl
 textblob
