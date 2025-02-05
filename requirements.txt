@@ -3,14 +3,14 @@ pandas
 numpy
 matplotlib
 fuzzywuzzy
+torch==2.1.0
 transformers
-torch
 openpyxl
 textblob
 scikit-learn
 wordcloud
 spacy
 python-Levenshtein
-torch==2.1.0
-transformers==4.30.0
+
+
 
